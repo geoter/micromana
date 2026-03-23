@@ -1,0 +1,14 @@
+{
+  "$schema": "vscode://schemas/launch",
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Micromana",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/Build/Products/Debug/Micromana.app/Contents/MacOS/Micromana",
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "xcodebuild: build (Debug)"
+    }
+  ]
+}
