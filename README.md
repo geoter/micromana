@@ -32,6 +32,20 @@ The app runs as a menu bar-only app (no Dock icon). Look for the potion icon in 
 - **Left-click** the icon: start tracking; click again to stop and enter a task description (type or use **Record voice** after setting your ElevenLabs API key in **Settings**).
 - **Right-click** the icon: **today’s mana** progress bar (remaining vs budget), **Show reports…** (chart of mana consumed per day), **Settings**, **Quit**. In **Reports**, use **Export CSV for today…** to save a minimal CSV of that day’s task entries.
 
+## Screenshots
+
+**Menu bar — mana today** (right-click the potion icon)
+
+![Menu bar dropdown showing mana today progress and actions](docs/screenshots/menu-bar-mana-today.png)
+
+**Reports** — daily chart, task list, and export
+
+![Reports window with chart and tasks](docs/screenshots/reports.png)
+
+**Log session** — after stopping a timer, describe the session (type or **Record voice**)
+
+![Log session dialog with duration and notes](docs/screenshots/log-session.png)
+
 ## Data & privacy
 
 Tasks and settings are stored under Application Support (`Micromana` folder in your user Library). Microphone access is requested only when you use voice transcription.
