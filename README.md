@@ -14,6 +14,8 @@ micromana helps you:
 
 The same zip is also in the repo at [`docs/releases/micromana-macos-1.0.0.zip`](docs/releases/micromana-macos-1.0.0.zip).
 
+In Security approve the app to be launched. It is not a virus i promise :P
+
 ## Requirements
 
 - macOS 13+
