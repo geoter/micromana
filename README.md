@@ -19,7 +19,7 @@ micromana help you track the miriad microtasks that drain your mana daily and sh
 2. Select the **Micromana** scheme and **My Mac**.
 3. **Product → Run** (⌘R).
 
-The app runs as a menu bar-only app (no Dock icon). Look for the timer icon in the menu bar.
+The app runs as a menu bar-only app (no Dock icon). Look for the potion icon in the menu bar.
 
 ## Usage
 
