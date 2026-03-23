@@ -4,7 +4,7 @@
   <img src="Micromana/Assets.xcassets/AppIcon.appiconset/potion-idle.png" alt="Micromana app icon" width="128" height="128">
 </p>
 
-micromana is to track the draining mana daily and share it with your micromanager
+micromana help you track the miriad microtasks that drain your mana daily and share it with your micromanager to justify why you did not have enough time to do more of the never ending work they assign to you.
 
 ## Requirements
 
