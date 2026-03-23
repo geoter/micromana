@@ -6,6 +6,12 @@
 
 micromana help you track the miriad microtasks that drain your mana daily and share it with your micromanager to justify why you did not have enough time to do more of the never ending work they assign to you.
 
+## Download
+
+**[Latest release (GitHub)](https://github.com/geoter/micromana/releases/latest)** — download **`micromana-macos-1.0.0.zip`**, unzip, and drag **`micromana.app`** into **Applications**.
+
+The same zip is also in the repo at [`docs/releases/micromana-macos-1.0.0.zip`](docs/releases/micromana-macos-1.0.0.zip).
+
 ## Requirements
 
 - macOS 13+
